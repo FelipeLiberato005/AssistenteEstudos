@@ -1,0 +1,21 @@
+Instale as dependencias com:
+pip install -r requerements
+
+requeriments:
+gradio
+transformers import pipeline
+pytorch
+
+Este código ira criar um sistema de resumos de textos. Nele contem a interface da pagina, um input(onde será colocado o texto que quer resumir), e o output(onde sairá o resumo)
+
+
+Funcionalidades:
+- Recebe um texto de até 3000 caracteres a sua preferencia
+- Retorna o resumo desse texto com no minimimo 30 caracteres e o meximo de 200
+
+Dependências:
+Bibliotecas utilizadas:
+transformers - Para usar o modelo de resummarization
+gradio - Para criar a interface da web
+
+
