@@ -1,7 +1,7 @@
 Assistente de Estudos
 
 Este código ira utilizar uma ia pronta do Huggingface, a "summarization", utilizada para fazer resumos de texto. Nele o usuario poderá colocar qualquer texto 
-com no maximo 3000 caracteres que quiser, em pouco segundo a Inteligencia Artificial do modelo conseguirá resumi-lo em até 200 caracteres com o menimimo de 30.
+com no maximo 3000 caracteres, em pouco segundo a Inteligencia Artificial do modelo conseguirá resumi-lo em até 200 caracteres com o mínimo de 30.
 
 Suas principais funcionalidade são: 
 Receber um texto com no maximo 3000 tokens
